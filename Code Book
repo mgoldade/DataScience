@@ -7,112 +7,112 @@ Activity - character(17)
 	Walking Downstairs
 	Walking Upstairs
 
-TimeBodyAccelerationMagnitudeMean - numeric(6,3) ranges from -1 to 1
+TimeBodyAccelerationMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the magnitude of the body linear acceleration portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeGravityAccelerationMagnitudeMean - numeric(6,3) ranges from -1 to 1
+TimeGravityAccelerationMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the magnitude of the gravity accelertaion portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeBodyAccelerationJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+TimeBodyAccelerationJerkMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the magnitude of the Jerk signal of the body linear acceleration of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeBodyAngularVelocityMagnitudeMean - numeric(6,3) ranges from -1 to 1
+TimeBodyAngularVelocityMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the magnitude of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeBodyAngularVelocityJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+TimeBodyAngularVelocityJerkMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the magnitude of the Jerk signal of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAccelerationMagnitudeMean - numeric(6,3) ranges from -1 to 1
+FreqBodyAccelerationMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the magnitude of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAccelerationJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+FreqBodyAccelerationJerkMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the magnitude of the Jerk signal of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAngularVelocityMagnitudeMean - numeric(6,3) ranges from -1 to 1
+FreqBodyAngularVelocityMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the magnitude of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAngularVelocityJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+FreqBodyAngularVelocityJerkMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the magnitude of the Jerk signal of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
  
-TimeBodyAccelerationMagnitudeStd - numeric(6,3) ranges from -1 to 1
+TimeBodyAccelerationMagnitudeStd - numeric ranges from -1 to 1
 	Standard deviation of the magnitude of the body linear acceleration portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeGravityAccelerationMagnitudeStd - numeric(6,3) ranges from -1 to 1
+TimeGravityAccelerationMagnitudeStd - numeric ranges from -1 to 1
 	Standard deviation of the magnitude of the gravity accelertaion portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeBodyAccelerationJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+TimeBodyAccelerationJerkMagnitudeStd - numeric ranges from -1 to 1
 	Standard deviation of the magnitude of the Jerk signal of the body linear acceleration of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeBodyAngularVelocityMagnitudeStd - numeric(6,3) ranges from -1 to 1
+TimeBodyAngularVelocityMagnitudeStd - numeric ranges from -1 to 1
 	Standard deviation of the magnitude of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-TimeBodyAngularVelocityJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+TimeBodyAngularVelocityJerkMagnitudeStd - numeric ranges from -1 to 1
 	Standard deviation of the magnitude of the Jerk signal of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAccelerationMagnitudeStd - numeric(6,3) ranges from -1 to 1
+FreqBodyAccelerationMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the Standard deviation of the magnitude of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAccelerationJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+FreqBodyAccelerationJerkMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the Standard deviation of the magnitude of the Jerk signal of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAngularVelocityMagnitudeStd - numeric(6,3) ranges from -1 to 1
+FreqBodyAngularVelocityMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the Standard deviation of the magnitude of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-FreqBodyAngularVelocityJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+FreqBodyAngularVelocityJerkMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the Standard deviation of the magnitude of the Jerk signal of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
  
-MeanofTimeBodyAccelerationMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAccelerationMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the original column of means of the magnitude of the body linear acceleration portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeGravityAccelerationMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofTimeGravityAccelerationMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the original column of means of the magnitude of the gravity accelertaion portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeBodyAccelerationJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAccelerationJerkMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the original column of means of the magnitude of the Jerk signal of the body linear acceleration of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeBodyAngularVelocityMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAngularVelocityMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the original column of means of the magnitude of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeBodyAngularVelocityJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAngularVelocityJerkMagnitudeMean - numeric ranges from -1 to 1
 	Mean of the original column of means of the magnitude of the Jerk signal of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAccelerationMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAccelerationMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of means of the magnitude of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAccelerationJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAccelerationJerkMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of means of the magnitude of the Jerk signal of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAngularVelocityMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAngularVelocityMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of means of the magnitude of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAngularVelocityJerkMagnitudeMean - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAngularVelocityJerkMagnitudeMean - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of means of the magnitude of the Jerk signal of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
  
-MeanofTimeBodyAccelerationMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAccelerationMagnitudeStd - numeric ranges from -1 to 1
 	Mean of the original column of standard deviations of the magnitude of the body linear acceleration portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeGravityAccelerationMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofTimeGravityAccelerationMagnitudeStd - numeric ranges from -1 to 1
 	Mean of the original column of standard deviations of the magnitude of the gravity accelertaion portion of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeBodyAccelerationJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAccelerationJerkMagnitudeStd - numeric ranges from -1 to 1
 	Mean of the original column of standard deviations of the magnitude of the Jerk signal of the body linear acceleration of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeBodyAngularVelocityMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAngularVelocityMagnitudeStd - numeric ranges from -1 to 1
 	Mean of the original column of standard deviations of the magnitude of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofTimeBodyAngularVelocityJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofTimeBodyAngularVelocityJerkMagnitudeStd - numeric ranges from -1 to 1
 	Mean of the original column of standard deviations of the magnitude of the Jerk signal of the angular velocity of the time domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAccelerationMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAccelerationMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of standard deviations of the magnitude of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAccelerationJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAccelerationJerkMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of standard deviations of the magnitude of the Jerk signal of the body linear acceleration signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAngularVelocityMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAngularVelocityMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of standard deviations of the magnitude of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
 
-MeanofFreqBodyAngularVelocityJerkMagnitudeStd - numeric(6,3) ranges from -1 to 1
+MeanofFreqBodyAngularVelocityJerkMagnitudeStd - numeric ranges from -1 to 1
 	Fast Fourier Transform of the mean of the original column of standard deviations of the magnitude of the Jerk signal of the angular velocity signal - frequency domain signal. (Magnitude calculated using the Euclidean norm)
  
 
